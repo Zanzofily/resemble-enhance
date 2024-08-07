@@ -42,7 +42,7 @@ setup(
     long_description_content_type="text/markdown",
     packages=find_packages(),
     install_requires=requirements,
-    url="https://github.com/resemble-ai/resemble-enhance",
+    url="https://github.com/Zanzofily/resemble-enhance",
     author="Resemble AI",
     author_email="team@resemble.ai",
     entry_points={
